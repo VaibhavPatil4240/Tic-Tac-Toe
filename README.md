@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 Python based simple tic-tac-toe game with simple GUI<br>
-For game logic I have used AI algorithm called <mark>minimax</mark>, and for GUI design Python's Tkinter module is used.
+For game logic I have used AI algorithm called <span style="background-color: #FFFF00">minimax</span>, and for GUI design Python's Tkinter module is used.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Game logic in :minimaxTicTacToe.py<br>
 GUI in: ticTacToe.py<br>
